@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sasinduv&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/?username=sasinduv" alt="GitHub streak" />
 </p>
